@@ -30,7 +30,7 @@ Each Challenge contains the following elements:
 
 * **Submission**: You'll submit your completed Challenge for review. In the real world, when a developer finishes working on a project, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For each Challenge, your instructional staff will serve as your team of reviewers.
 
-## Your Task
+## Your Task![screenshot](./assets/images/brand-awareness.png)
 
 This week is an odd-numbered week, so your Challenge is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
 
